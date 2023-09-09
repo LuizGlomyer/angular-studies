@@ -1,6 +1,14 @@
 # weatherApp
 
+<div style="display: flex;">
+  <img src="/docs/Manaus.png" alt="Manaus Image" style="flex: 50%; padding: 10px;">
+  <img src="/docs/Moscow.png" alt="Moscow Image" style="flex: 50%; padding: 10px;">
+</div>
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.1.
+
+It uses an API to show weather data based on the user's input.
 
 ## Development server
 
