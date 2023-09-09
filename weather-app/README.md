@@ -1,8 +1,8 @@
 # weatherApp
 
 <div style="display: flex;">
-  <img src="/docs/Manaus.png" alt="Manaus Image" style="flex: 50%; padding: 10px;">
-  <img src="/docs/Moscow.png" alt="Moscow Image" style="flex: 50%; padding: 10px;">
+  <img src="docs/Manaus.png" alt="Manaus Image" style="flex: 50%; padding: 10px; width: 300px;">
+  <img src="docs/Moscow.png" alt="Moscow Image" style="flex: 50%; padding: 10px; width: 300px;">
 </div>
 
 
