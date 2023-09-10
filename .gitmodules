@@ -1,0 +1,3 @@
+[submodule "stock-api"]
+	path = stock-api
+	url = https://github.com/marcosJuniorPassarella/stock-api.git
