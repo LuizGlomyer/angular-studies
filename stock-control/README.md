@@ -1,5 +1,11 @@
 # StockControl
 
+<img src="docs/dashboard.png" alt="Dashboard Image" style="width: 600px;">
+<img src="docs/products.png" alt="Products listing" style="width: 600px;">
+<img src="docs/categories.png" alt="Product category creation" style="width: 600px;">
+
+A project that uses an external API to manage the products of a store (basically a CRUD).
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.2.5.
 
 ## Development server
